@@ -1,4 +1,4 @@
-# SoftwareTestingProjects12x
+# SoftwareTestingProjects
 Manual Testing Project — Comprehensive test plans and detailed test cases designed to ensure software quality and reliability. Includes structured documentation to guide manual testing efforts for web and mobile applications.
 
 # 🧪 Manual Testing Project
@@ -81,22 +81,3 @@ Bug Tracking: JIRA, Bugzilla (optional)
 
 Test Management: TestRail, Zephyr (optional)
 
-🤝 Contributing
-Contributions, suggestions, and improvements are welcome!
-
-Fork the repository
-
-Create a new branch (git checkout -b feature-branch)
-
-Commit your changes (git commit -m 'Add new test cases')
-
-Push to the branch (git push origin feature-branch)
-
-Open a Pull Request
-
-📞 Contact
-For queries, suggestions, or collaborations:
-
-Pramod Dutta
-🔗 LinkedIn
-🌐 TheTestingAcademy
